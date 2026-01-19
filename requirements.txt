@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain_community
+langchain_chroma
+langchain-core
+dotenv
+google-search-results
+langchain_aws
+keybert
+spacy
+scikit-learn
+playwright
+markdownify
+certifi
+gradio

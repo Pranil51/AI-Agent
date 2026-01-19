@@ -1,0 +1,25 @@
+2026-01-19 13:04:46,936 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 13:04:48,257 - utils.web_processing - DEBUG - Blocked by robots.txt: https://wimz.com/2026/01/15/india-trade-deficit-edges-up-in-december-exports-to-u-s-stay-firm/
+2026-01-19 13:04:51,538 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5330.html
+2026-01-19 13:04:55,871 - utils.web_processing - DEBUG - Blocked by robots.txt: https://tradingeconomics.com/india/exports/united-states
+2026-01-19 13:04:56,950 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 13:04:58,028 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5330.html
+2026-01-19 13:04:59,722 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5330.html
+2026-01-19 13:05:01,038 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 13:05:26,375 - utils.web_processing - INFO - **URL Loader**=> Loaded 10 documents from 10 urls.
+2026-01-19 13:14:58,675 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5700.html
+2026-01-19 13:15:17,220 - utils.web_processing - INFO - **URL Loader**=> Loaded 4 documents from 4 urls.
+2026-01-19 13:25:04,794 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5700.html
+2026-01-19 13:25:05,832 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5700.html
+2026-01-19 13:25:07,540 - utils.web_processing - DEBUG - Blocked by robots.txt: https://tradingeconomics.com/china/balance-of-trade
+2026-01-19 13:25:10,106 - utils.web_processing - DEBUG - Blocked by robots.txt: https://tradingeconomics.com/china/balance-of-trade
+2026-01-19 13:25:11,188 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5700.html
+2026-01-19 13:25:14,347 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.census.gov/foreign-trade/balance/c5700.html
+2026-01-19 13:25:15,236 - utils.web_processing - DEBUG - Blocked by robots.txt: https://prosperousamerica.org/u-s-trade-deficit-with-china-shrinks-in-september-but-mexico-vietnam-and-ireland-goods-gap-surpasses-it/
+2026-01-19 13:25:28,582 - utils.web_processing - INFO - **URL Loader**=> Loaded 9 documents from 9 urls.
+2026-01-19 14:16:59,526 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 14:17:01,401 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 14:17:04,653 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.cnbc.com/2026/01/16/india-trade-us-china-exports-trump-tariffs.html
+2026-01-19 14:17:05,592 - utils.web_processing - DEBUG - Blocked by robots.txt: https://tradingeconomics.com/india/exports/china
+2026-01-19 14:17:05,930 - utils.web_processing - DEBUG - Blocked by robots.txt: https://www.spglobal.com/ratings/en/regulatory/article/chinas-export-surge-to-emerging-asia-to-meet-rising-resistance-s101665177
+2026-01-19 14:17:52,071 - utils.web_processing - INFO - **URL Loader**=> Loaded 10 documents from 10 urls.
