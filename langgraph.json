@@ -1,0 +1,8 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "Web Search Agent": "./app.py:websearch_agent",
+      "Chat Agent": "./app.py:chat_agent"
+    },
+    "env": "./.env"
+}
