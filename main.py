@@ -185,11 +185,12 @@ def retriever(state: CustomState, config: RunnableConfig=None) -> CustomState:
                 """
     retreived_docs = retriever(HumanMessage(content=prompt))
     # TODO: save retrieved docs into state instead of only contexts: Done
-    new_docs = [doc for doc in retreived_docs if doc not in state['retrieved_docs']]
-    logger.info(f"**retriever**=> Retrieved {len(new_docs)} new documents. First 3 contexts: {new_docs[:3]} ")
-    state['retrieved_docs'].extend(new_docs)
+    # TODO: stop storing all retrieved docs to state: Done
+    # new_docs = [doc for doc in retreived_docs if doc not in state['retrieved_docs']]
+    logger.info(f"**retriever**=> Retrieved {len(retreived_docs)} new documents. First 3 contexts: {retreived_docs[:3]} ")
+    # state['retrieved_docs'].extend(new_docs)
     context_format = "Text:\n {content}\nSource: {source}\nURL: {link}\n Source Reliability: {source_reliability}\n\n"
-    contexts = "\n".join([context_format.format(content=doc.page_content, source=doc.metadata.get('source', ''), link=doc.metadata['link'], source_reliability=doc.metadata['source_reliability']) for doc in new_docs])
+    contexts = "\n".join([context_format.format(content=doc.page_content, source=doc.metadata.get('source', ''), link=doc.metadata['link'], source_reliability=doc.metadata['source_reliability']) for doc in retreived_docs])
     # Adding contexts as a tool message
     contexts_augmented = SystemMessage(f"""
                     Retrieved Contexts:
